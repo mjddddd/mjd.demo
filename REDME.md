@@ -1,2 +1,3 @@
-Salam Everyon
-how are you
+the next text is an example about c++ code
+
+cout <<"pleas enter your number and your email and your phone number";
